@@ -3,8 +3,10 @@ layout: default
 home: true
 ---
 
-<h4 class="posts-item-note">Recent Posts</h4>
 {% for post in site.posts %}
+{% if forloop.first == true %}
+<h4 class="posts-item-note">Recent Posts</h4>
+{% endif %}
 <article class="post-item">
   <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
   <h4 class="post-item-title">

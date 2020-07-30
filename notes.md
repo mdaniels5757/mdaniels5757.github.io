@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Pub Notes
 permalink: /notes/
 layout: page
@@ -28,4 +28,4 @@ $ lsof -wni tcp:4000
 $ kill -9 <PID of process>
 ```
 
-Dan lain waktu, gunakan <kbd>CTRL</kbd> + <kbd>C</kbd> untuk menghentikan server.
+Dan lain waktu, gunakan <kbd>CTRL</kbd> + <kbd>C</kbd> untuk menghentikan server. -->

@@ -39,7 +39,7 @@ body[data-theme="dark"] {
     }
 
     h3 {
-      border-color: $dark-light;
+      border-color: $dark-white;
     }
     h1,
     h2,
@@ -69,7 +69,7 @@ body[data-theme="dark"] {
 
   // horizontal rule
   hr {
-    border-color: $dark-light;
+    border-color: $light;
   }
 
   // Post Meta
