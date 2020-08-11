@@ -9,7 +9,7 @@ comments: false
 # Education:
 ### Tufts University
 B.S. in Electrical Engineering (Anticipated June 2022), G.P.A. 3.23
-* Dean’s list: Spring 2019, Fall 2019.
+* Dean’s list
 * Selected coursework:
     * Electrical Engineering: Introduction to Electrical Engineering Systems, Introduction to Digital Logic Circuits, Electronics I
     * Computer Science: Data Structures, Introduction to Computer Science (C++), Introduction to Computing in Engineering (MATLAB)
@@ -26,6 +26,10 @@ Selected as a Teaching Assistant for Introduction to Computer Science (C++). Pro
 
 ##### Jan 2020 – May 2020
 Selected as a Teaching Assistant for Introduction to Computing in Engineering (MATLAB). Led labs, monitored and responded to questions in student forum, and graded homework and final project, as well as provided assistance during weekly office hours. Paid position.
+
+### Independent Coding Projects
+##### May 2020 - Aug 2020
+Creation of, and assorted contributions to, numerous (20+) open-source projects. See [my projects page](http://www.michaeldaniels.me/projects/) and [my Github](https://github.com/mdaniels5757)
 
 ### Tremont School: Makerspace Teacher
 ##### Sep 2016 - May 2018
