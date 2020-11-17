@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/mdaniels5757
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.michaeldaniels.me
+  * I am mdaniels5757 (https://keybase.io/mdaniels5757) on keybase.
+  * I have a public key with fingerprint ACCD 966B 7CA2 AD99 9C35  A15F 17C7 FDFB B0CB EAF9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e8bde2cccc2983e6a91657c99d1714cb8669c53b8f1bd70c681168d6766b22e70a",
+      "fingerprint": "accd966b7ca2ad999c35a15f17c7fdfbb0cbeaf9",
+      "host": "keybase.io",
+      "key_id": "17c7fdfbb0cbeaf9",
+      "kid": "0101e8bde2cccc2983e6a91657c99d1714cb8669c53b8f1bd70c681168d6766b22e70a",
+      "uid": "5a59897961636c9aeac2969289ea4719",
+      "username": "mdaniels5757"
+    },
+    "merkle_root": {
+      "ctime": 1605571107,
+      "hash_meta": "8a652e4c31861556476a89a5cfe5936c3b25f7f7a1f9d77861922b0d39f88028",
+      "seqno": 18143797
+    },
+    "revoke": {
+      "sig_ids": [
+        "247a907b235ebb08df17a92b6ea0f03a454602ecda6544ed238f0ea5496e3b330f"
+      ]
+    },
+    "service": {
+      "hostname": "www.michaeldaniels.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1605571110,
+  "expire_in": 157680000,
+  "prev": "32f03b124e374cce6f4f892e4e3c7c593f13537ff688f831e9a74ced9f1c0e37",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMPcAnicrVNrbBRFHL+2ilBEjhKe1lDXAALtubOPmZ1WSqxg01ABDZqjFC+zs7N3
+S+9uj7u9Ky2Wh2khgaK8BaQpL1GooII9gQoCqSKixYBAICaERwJUHgpoeFWcq5gY
+40fny2Znf6//b2dae2S4MtP6Hey498nh9jtphw/Uxl2+HVlDZgi6bVQJ+TOECtb5
+YEGDxRxfhWUI+YIIRMA03WAS5UvCmswgwQCqiGJsAAQUqmsQYqrKumYC3UAihRoA
+UDMgglCXJIZEIuQKphX2s2gkaoUdLksoNTD/jCiRiIExprJKgGoCRJFpmLouUp0R
+E3NiwI6lGDycTmLMY9l8j7/4OuP9B/5/zh3vlFOJijWMMARQhhQTRrgmxJKGGVEQ
+SPnGYywaJiHG0SGDhC0WjKlIRUJNrhBi0Yog80Vt20kVTB0rBQNQVFUEgIj4kCQW
+8IWYQzhbI1CVmEJloEGgqlBBkGiYqNRkKubusi6pJjIRASY2EOIgLEm6aMjY1DRR
+0niWGJsWtrmDBhQZYcQjRFnCrmAp95jl593FhPzJgqQggkWkS7LKeIWawfsnWNIh
+I6IpykRRFShKjBo8kaIwQ5I1U2REVTBksi7LoilMqUm5RRMW7RRP/ayHJVRWVnpC
+Fg0Qfp7+qsPD93OFSNR2bGoHOSTgOJFYfqohpyrSyWG676GaT7fCBj8znJFg0Zhl
+h/k8HPmv8oCYK7DpESvKfFYKoSKoiXylfFiCS8oSn0QHksJkpFDKoKmYGub9Mpki
+ygs1gazKyDShppmaDBgmHMcMbAIqcs4/2gQ8J/FzTV5hmDjxKBNqDuwvf8SVlunq
+8mh66jK5Mru5/75iUz1u15ZNXUvG9MuFLXnrviz05iw5vbVm4LyDbxerHV0KVxV6
+B3i72gcirWfKJr8/M3Erf92DYrOoOtsvrlY+Le5+331n88xpX+D+PReMGjC8f1t/
+MGjDted2VnYsBSuL7raUlg0dM/vEh03VrQW5a6dn97ni5B2q/8y7hO46hmZkBNcO
+q/96u6tqam31T7a7uTF77tEJ1cmc7IY9DVWZyzZfHtE0YW/y2+4d83I+uvRN8LUT
+Q9O9V65KGeO2/6ZdW/LCe9frotfTm4dP3DxnfMmR/OCa1c/0eef8K4Mn9TZ3liYH
+Dj2d0bP2/vezNvzR8MaEfb1+TYZarx53kW2Bua6xD7yz9v/84oi2Rckbl87sucrq
+Mj+v2/d84kLbsKym4pNF8wf1yJpV9XRh3d2zec2nbgcWf2Xvb+mlrXTvPbH7et82
+T4Zzy99+MTHlZKUVSXu3qLZH3s21zVPWvJr0Prb8zZKF93zPNtWKTyzFW46Fy0c+
+7t86qrxi7Mb61Tum9u5bMPFy/Q/dNjz5+orSHafG17Q3FLRHNnXb1vhWn01l7T8u
+PJjpWZHeeH5jUr+x57v49oHi2Z3nlx2/+MucEeekl2bL68vO/u7O8RytvDnac25b
+yZ0xWWcW7BoZmu9e44RLcXnvK6OnR/zG+uWTd6/6wP8yie8uiF1qOfRU84qNGa2D
+SemF0OxJ1u0h6611jYuO3B/XGl8cUD+ep/wJrfsEUg==
+=zcth
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mdaniels5757
+
+==================================================================
